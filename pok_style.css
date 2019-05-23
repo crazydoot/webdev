@@ -1,0 +1,19 @@
+*{
+	background-color: #025e04;
+	box-sizing: border-box;
+}
+
+header {
+	color: gray;
+}
+
+.pokemon {
+	margin: 0 auto;
+	background-color: #98A5A2;
+	width: 50%;
+	text-align: center;
+}
+
+.pokemon > article{
+	background-color: #98A5A2;
+}
